@@ -156,5 +156,4 @@ Fix Stuck on linux, install google chrome stable:
 ```
 
 ## Thanks to
-- [Xnzul](https://github.com/Xnzul)
--[Itsmeiky(https://github.com/itsmeikybot) 
+-[Xnzul](https://github.com/Xnzul) 
